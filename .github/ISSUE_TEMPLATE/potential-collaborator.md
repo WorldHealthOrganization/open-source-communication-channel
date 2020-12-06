@@ -22,7 +22,7 @@ WHO will be in touch with interested collaborators as opportunities arise.
 
 **2. What is your name:** _please type your name_
 
-**3. If applicable, please type the name of the company, government, organization or open source community on which you're submitting:** _please type your response_ 
+**3. If applicable, please type the name of the company, government, organization or open source community on behalf of which you're submitting:** _please type your response_ 
 
 **4. Please type your GitHub ID:** _please type your response_
 
