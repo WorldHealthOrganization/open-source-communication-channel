@@ -1,0 +1,12 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: World Health Organization
+    url: https://www.who.int
+    about: Official homepage
+  - name: Follow @WHO on Twitter
+    url: https://twitter.com/who
+    about: https://twitter.com/who
+  - name: Like @WHO on Facebook
+    url: https://www.facebook.com/WHO
+    about: https://www.facebook.com/WHO
