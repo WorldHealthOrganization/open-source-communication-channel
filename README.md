@@ -1,28 +1,36 @@
 # World Health Organization Open Source Communication Channel
 
-### ❓About this Repo
+## ❓About this Repo
 This repository is the first stop and main communication channel for open source communities wishing to contribute to the World Health Organization open source work. Below are links to contributor guidelines, open source product and project roadmaps, and key contributor recognition. 
-
-_Stay tuned for more updates._
-
-The below sections will cover:
-- Getting Started
-- Current Projects
-- _Insert 3_
 
 ### 🤔 When do I use this?
 
 
 ### ⭐️ Why use this?
+Use this repository to communicate and collaborate [asynchronously](https://ben.balter.com/2014/11/06/rules-of-communicating-at-github/#1-prefer-asynchronous-communication)--so that any question asked and answered may be easily shared and collaborated on.
 
+The use of this repository draws upon ideas from:
+
+- [Why everything should have a URL](https://ben.balter.com/2015/11/12/why-urls/)
+- [15 rules for communicating at GitHub](https://ben.balter.com/2014/11/06/rules-of-communicating-at-github/)
 
 ### ❔ How do I use this?
+Here are examples of how this repository can be used:
 
+- Questions and answers
+- Meeting minutes and notes
+- Feedback and features requests
+- Project planning
 
 ### 👤 Who may use this?
+To request a user be added from this repo:
+
+1. [Open an issue](https://github.com/WorldHealthOrganization/open-source-communication-channel/issues/new/choose)
+2. Select the issue: Collaborator on WHO Open Source Projects
+3. Specify the required detail in the issue and submit it
 
 
-# 👥 Our Team
+### 👥 Our Team
 
 The following folks are the maintainers for this repository. Please feel free to contact them via an [@mention](https://docs.github.com/github/writing-on-github/basic-writing-and-formatting-syntax#mentioning-people-and-teams) in an [issue](https://github.com/WorldHealthOrganization/open-source-communication-channel/issues/new), or via email for any questions, comments, and/or ideas you may have relating to WHO's Open Source innitiative and this repository:
 
@@ -33,23 +41,22 @@ The following folks are the maintainers for this repository. Please feel free to
 [milovanovicdusan]: https://avatars.githubusercontent.com/milovanovicdusan?s=80
 
 
-
-### Objectives
-
 ## Getting Started
+
 ### How to Sign Up
-_insert link to Issue template_
+- Please [open an issue](https://github.com/WorldHealthOrganization/open-source-communication-channel/issues/new?assignees=&labels=collaborator&template=potential-collaborator.md&title=Interested+Collaborator+-+%28Insert+name%2C+org+or+community+here%29) here with your details to sign up
 
-## Contributor Profiles
-We are looking for collaborators with the following skills, experience, and networks...
+### Contributor Profiles
+- We are looking for collaborators with the following skills, experience, and networks...
 
-## Contributor Guidelines
-_insert_
+### Contributor Guidelines
+- Please follow this [Contributor Guideline](https://github.com/WorldHealthOrganization/open-source-communication-channel/blob/main/CONTRIBUTING.md) when planning to collaborate and contribute to this repository.
 
-## Product Roadmaps
-_insert links to project boards_
+### Product Roadmaps
+- [Project Roadmap](https://github.com/WorldHealthOrganization/open-source-communication-channel/projects/2)
+- [Collaborator Triage](https://github.com/WorldHealthOrganization/open-source-communication-channel/projects/1)
 
-## Current Projects
+### Current Projects
 Please, stay tuned while we are working on openning first set of repositories for open source collaboration in the scope of the following initiatives:
 
 Initiative Name | Initiative Link | Notes
