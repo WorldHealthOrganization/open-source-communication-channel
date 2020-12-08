@@ -26,14 +26,12 @@ WHO will be in touch with interested collaborators as opportunities arise.
 
 **4. Please type your GitHub ID:** _please type your response_
 
-**5. Please type a contact email:** _please type your response_
-
-**6. Can we add the email above to a mailing list with updates on WHO open source projects?** Your information will not be shared further or for any other purpose.
+**5. Can we contact you at your GitHub ID with updates on WHO open source projects?** Your information will not be shared further or for any other purpose.
 - [ ] Yes
 - [ ] No
 
 ### About Your Interest
-**7. Please consult the [ReadMe](https://github.com/WorldHealthOrganization/open-source-communication-channel) and indicate the projects on which you're interested in collaborating:**
+**6. Please consult the [ReadMe](https://github.com/WorldHealthOrganization/open-source-communication-channel) and indicate the projects on which you're interested in collaborating:**
 
 - [ ] Augmented Public Health Intelligence - AI/ML
 - [ ] Semantic Web of Public Health Data - open APIs
@@ -42,4 +40,4 @@ WHO will be in touch with interested collaborators as opportunities arise.
 - [ ] Other: _please enter a description_
 
 
-**8. Please briefly describe how you would like to collaborate on the project(s) above:** _please type your response_
+**7. Please briefly describe how you would like to collaborate on the project(s) above:** _please type your response_
