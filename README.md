@@ -50,9 +50,11 @@ _insert_
 _insert links to project boards_
 
 ## Current Projects
-Project Name | Repo Link | Notes
------------- | ---------- | -----
-Augmented Public Health Intelligence - AI/ML | _insert_ | _insert_
-Semantic Web of Public Health Data - open APIs | _insert_ | _insert_
-Active COVID-19 Surveillance Data Access Layer | _insert_ | _insert_
-Go.Data | _insert_ | _insert_
+Please, stay tuned while we are working on openning first set of repositories for open source collaboration in the scope of the following initiatives:
+
+Initiative Name | Initiative Link | Notes
+------------    | ----------      | -----
+**Augmented Public Health Intelligence - AI/ML** | [portal.who.int/eios](https://portal.who.int/eios/) | Cognitive computing technologies encompassing machine learning and automated reasoning, natural language processing, speech and object recognition, human-computer interaction, dialog and narrative generation to support public health intelligence discipline 
+**Semantic Web of Public Health Data - open APIs** | [www.epi-brain.com](https://www.epi-brain.com/)| Semantic network of distributed data for sharing information and knowledge between humans as well as between systems, including public health intelligence systems and those that provide contextual information
+**Active COVID-19 Surveillance Data Access Layer** | [covid19.who.int](https://covid19.who.int/) | Active and routine public health surveillance for automated health-related data acquisition, information discovery and reconciliation, data harmonisation and centrally accessible storage for descriptive epidemiology
+**Go.Data** | [github.com/WorldHealthOrganization/godata](https://github.com/WorldHealthOrganization/godata) | Go.Data (contact tracing solution for outbreak response) - public repo and community of practice for sharing technical resources for Go.Data users and contributors. This includes scripts for interacting with Go.Data API in addition to data extraction/cleaning/analysis
