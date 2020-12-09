@@ -10,7 +10,7 @@ newIssueWelcomeComment: >
 
 # Comment to be posted to on PRs from first time contributors in your repository
 newPRWelcomeComment: >
-  Thank you for opening this pull request! We appreciate your contributions! Please check out our contributing guidelines.
+  Thank you for opening this pull request! We appreciate your contributions! Please check out our [contributing guidelines](https://github.com/WorldHealthOrganization/open-source-communication-channel/blob/main/CONTRIBUTING.md).
 
 # Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
 
