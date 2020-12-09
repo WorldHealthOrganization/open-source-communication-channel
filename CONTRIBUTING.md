@@ -41,3 +41,7 @@ Work in Progress pull requests are also welcome to get feedback early on, or if 
 [pulls]: https://github.com/WorldHealthOrganization/open-source-communication-channel/pulls
 [pr]: https://github.com/WorldHealthOrganization/open-source-communication-channel/compare
 [fork]: https://github.com/WorldHealthOrganization/open-source-communication-channel/fork
+
+## Code of Conduct
+
+Any contribution, including Issues, Discussion and comments, must adhere to our [Code of Conduct](https://github.com/WorldHealthOrganization/open-source-communication-channel/blob/main/CODE_OF_CONDUCT.md)
