@@ -4,7 +4,7 @@
 
 # Comment to be posted to on first time issues
 newIssueWelcomeComment: >
-  Thank you for opening your first issue here! :tada:
+   🥳 Thank you for your interest in contributing to WHO open source projects. If you've followed our instructions in [README.md](https://github.com/WorldHealthOrganization/open-source-communication-channel#-who-may-use-this) we will reach out to you soon with further instructions! :tada:
 
 # Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
 
