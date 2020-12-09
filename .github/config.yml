@@ -4,7 +4,7 @@
 
 # Comment to be posted to on first time issues
 newIssueWelcomeComment: >
-  Thank you for opening your first issue here! :tada: Be sure to follow the issue template :)
+  Thank you for opening your first issue here! :tada:
 
 # Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
 
