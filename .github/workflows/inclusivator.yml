@@ -1,0 +1,23 @@
+name: Inclusivator
+
+on:
+  issues:
+    types: [assigned, opened, edited, reopened, synchronize, ready_for_review]
+  pull_request:
+    types: [assigned, opened, edited, reopened, synchronize, ready_for_review]
+  issue_comment:
+    types: [created, edited]
+
+jobs:
+  inclusivator-warning:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: ppremk/inclusivator@master
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          tba: '0.5'
+        env:
+          PERSPECTIVE_API_KEY: ${{ secrets.PERSPECTIVE_API }}
