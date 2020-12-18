@@ -66,3 +66,5 @@ The following folks are the maintainers for this repository. Please feel free to
 
 [milovanovicdusan]: https://avatars.githubusercontent.com/milovanovicdusan?s=80
 
+### More Information  
+For more information on WHO's open source work, [watch this video on YouTube](https://www.youtube.com/watch?v=clm5Ee6O_4o) on how WHO uses technology for early detection, verification, and risk assessment of pandemics.
