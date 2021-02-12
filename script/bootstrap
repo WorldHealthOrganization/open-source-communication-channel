@@ -1,0 +1,10 @@
+#!/bin/bash
+
+npm i docsify-cli -g
+
+ERROR_CODE=$?
+
+if [ $ERROR_CODE -ne 0 ]; then
+  echo "ERROR! Failed to create docs!"
+  exit 1
+fi
