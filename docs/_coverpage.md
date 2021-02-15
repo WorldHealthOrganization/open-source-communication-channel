@@ -1,4 +1,4 @@
-![logo](images/h-logo-blue.svg ':no-zoom')
+![logo](/images/h-logo-blue.svg ':no-zoom')
 
 # Official Open Source Communication Channel
 
