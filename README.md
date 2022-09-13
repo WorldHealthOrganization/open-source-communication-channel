@@ -62,9 +62,12 @@ The following folks are the maintainers for this repository. Please feel free to
 
 | Name           | Contact                                          | Pic                           |
 | -------------- | ------------------------------------------------ | ----------------------------- |
+| Samuel Mbuthia | [@smbuthia](https://github.com/smbuthia) | ![smbuthia][smbuthia]
 | Dusan Milovanovic | [@milovanovicdusan](https://github.com/milovanovicdusan)       | ![milovanovicdusan][milovanovicdusan]       |
+ 
 
-[milovanovicdusan]: https://avatars.githubusercontent.com/milovanovicdusan?s=80
+[smbuthia]: https://avatars.githubusercontent.com/u/1491710?s=100
+[milovanovicdusan]: https://avatars.githubusercontent.com/milovanovicdusan?s=100
 
 ### More Information  
 For more information on WHO's open source work, [watch this video on YouTube](https://www.youtube.com/watch?v=clm5Ee6O_4o) on how WHO uses technology for early detection, verification, and risk assessment of pandemics. You can also read about the launch of [WHO's new Open Source Programme Office here](https://socialimpact.github.com/insights/world-health-organization-OSPO-launch/).
