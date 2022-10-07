@@ -1,7 +1,7 @@
 # World Health Organization Open Source Communication Channel
 
 ## ❓About this repo
-This repository is the first stop and main communication channel for open source communities wishing to contribute to the World Health Organization open source work. Below are links to contributor guidelines, open source product and project roadmaps, and key contributor recognition. 
+This repository is the first stop for open source communities wishing to contribute to the World Health Organization open source work. Below are links to contributor guidelines, open source product and project roadmaps, and key contributor recognition. 
 
 - Please take time to go through this README.md file. It contains information for frequently asked questions on how to work with this Repository
 - The `Getting Started` section below contains specifics on Contributor Profile and Project information
@@ -27,9 +27,6 @@ The use of this repository draws upon ideas from:
 
 ## Getting Started
 
-### How to sign up
-- Please [open an issue](https://github.com/WorldHealthOrganization/open-source-communication-channel/issues/new?assignees=&labels=collaborator&template=potential-collaborator.md&title=Interested+Collaborator+-+%28Insert+name%2C+org+or+community+here%29) here with your details to sign up
-
 ### Contributor profiles
 As more WHO work is open sourced, the breadth of contributor profiles will grow. Currently, WHO is seeking collaboration from the following that have an existing orientation on public health:
 
@@ -47,14 +44,12 @@ As more WHO work is open sourced, the breadth of contributor profiles will grow.
 - [Collaborator Triage](https://github.com/WorldHealthOrganization/open-source-communication-channel/projects/1)
 
 ### Current projects
-Please, stay tuned while we are working on openning first set of repositories for open source collaboration in the scope of the following initiatives:
 
 Initiative Name | Initiative Link | Notes
 ------------    | ----------      | -----
-**Augmented Public Health Intelligence - AI/ML** | [portal.who.int/eios](https://portal.who.int/eios/) | Cognitive computing technologies encompassing machine learning and automated reasoning, natural language processing, speech and object recognition, human-computer interaction, dialog and narrative generation to support public health intelligence discipline 
-**Semantic Web of Public Health Data - open APIs** | [www.epi-brain.com](https://www.epi-brain.com/)| Semantic network of distributed data for sharing information and knowledge between humans as well as between systems, including public health intelligence systems and those that provide contextual information
-**Active COVID-19 Surveillance Data Access Layer** | [covid19.who.int](https://covid19.who.int/) | Active and routine public health surveillance for automated health-related data acquisition, information discovery and reconciliation, data harmonisation and centrally accessible storage for descriptive epidemiology
-**Go.Data** | [github.com/WorldHealthOrganization/godata](https://github.com/WorldHealthOrganization/godata) | Go.Data (contact tracing solution for outbreak response) - public repo and community of practice for sharing technical resources for Go.Data users and contributors. This includes scripts for interacting with Go.Data API in addition to data extraction/cleaning/analysis
+**Go.Data** | [github.com/WorldHealthOrganization/godata](https://github.com/WorldHealthOrganization/godata) | Contact tracing solution for outbreak response. Public repo and community of practice for sharing technical resources for Go.Data users and contributors. 
+
+Please, stay tuned while we are working on sharing more repositories for open source collaboration.
 
 ### 👥 Our team
 
@@ -68,6 +63,9 @@ The following folks are the maintainers for this repository. Please feel free to
 
 [smbuthia]: https://avatars.githubusercontent.com/u/1491710?s=100
 [milovanovicdusan]: https://avatars.githubusercontent.com/milovanovicdusan?s=100
+
+💖 To help make this a welcoming and inclusive community, please read our [code of conduct](https://github.com/WorldHealthOrganization/open-source-communication-channel/blob/main/CODE_OF_CONDUCT.md).
+
 
 ### More Information  
 For more information on WHO's open source work, [watch this video on YouTube](https://www.youtube.com/watch?v=clm5Ee6O_4o) on how WHO uses technology for early detection, verification, and risk assessment of pandemics. You can also read about the launch of [WHO's new Open Source Programme Office here](https://socialimpact.github.com/insights/world-health-organization-OSPO-launch/).
