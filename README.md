@@ -45,9 +45,12 @@ As more WHO work is open sourced, the breadth of contributor profiles will grow.
 
 ### Current projects
 
-Initiative Name | Initiative Link | Notes
-------------    | ----------      | -----
-**Go.Data** | [github.com/WorldHealthOrganization/godata](https://github.com/WorldHealthOrganization/godata) | Contact tracing solution for outbreak response. Public repo and community of practice for sharing technical resources for Go.Data users and contributors. 
+Initiative Name | Notes | Contact
+------------    | ----- | -----
+**[Augmented Public Health Intelligence - AI/ML](https://portal.who.int/eios/Login?returnurl=%2feios%2f)** | Cognitive computing technologies encompassing machine learning and automated reasoning, natural language processing, speech and object recognition, human-computer interaction, dialog and narrative generation to support public health intelligence discipline | [@milovanovicdusan](https://github.com/milovanovicdusan)
+**[Go.Data](https://github.com/WorldHealthOrganization/godata)** | Contact tracing solution for outbreak response. Public repo and community of practice for sharing technical resources for Go.Data users and contributors. | [@sarahollis](https://github.com/sarahollis)
+**[Semantic Web of Public Health Data - open APIs](https://www.epi-brain.com/)** | Semantic network of distributed data for sharing information and knowledge between humans as well as between systems, including public health intelligence systems and those that provide contextual information | [@milovanovicdusan](https://github.com/milovanovicdusan)
+
 
 Please, stay tuned while we are working on sharing more repositories for open source collaboration.
 
@@ -55,10 +58,10 @@ Please, stay tuned while we are working on sharing more repositories for open so
 
 The following folks are the maintainers for this repository. Please feel free to contact them via an [@mention](https://docs.github.com/github/writing-on-github/basic-writing-and-formatting-syntax#mentioning-people-and-teams) in an [issue](https://github.com/WorldHealthOrganization/open-source-communication-channel/issues/new), or via email for any questions, comments, and/or ideas you may have relating to WHO's Open Source innitiative and this repository:
 
-| Name           | Contact                                          | Pic                           |
-| -------------- | ------------------------------------------------ | ----------------------------- |
-| Samuel Mbuthia | [@smbuthia](https://github.com/smbuthia) | ![smbuthia][smbuthia]
-| Dusan Milovanovic | [@milovanovicdusan](https://github.com/milovanovicdusan)       | ![milovanovicdusan][milovanovicdusan]       |
+| Name              | Contact    | Pic                           
+| --------------    | ---------- | ----------------------------- 
+| Samuel Mbuthia    | [@smbuthia](https://github.com/smbuthia) | ![smbuthia][smbuthia]
+| Dusan Milovanovic | [@milovanovicdusan](https://github.com/milovanovicdusan) | ![milovanovicdusan][milovanovicdusan]       
  
 
 [smbuthia]: https://avatars.githubusercontent.com/u/1491710?s=100
