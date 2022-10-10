@@ -40,7 +40,7 @@ As more WHO work is open sourced, the breadth of contributor profiles will grow.
 - Please follow this [Contributor Guideline](https://github.com/WorldHealthOrganization/open-source-communication-channel/blob/main/CONTRIBUTING.md) when planning to collaborate and contribute to this repository.
 
 ### Product roadmaps
-- [Project Roadmap](https://github.com/WorldHealthOrganization/open-source-communication-channel/projects/2)
+- [Project Roadmap](https://github.com/orgs/WorldHealthOrganization/projects/14/views/1?layout=board)
 - [Collaborator Triage](https://github.com/WorldHealthOrganization/open-source-communication-channel/projects/1)
 
 ### Current projects
