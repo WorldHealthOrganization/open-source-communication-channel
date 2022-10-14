@@ -1,6 +1,6 @@
-# Getting Started with Open Source at WHO
+# Getting Started with Open Source
 
-This document provides some quick pointers on what you need to know as you plan to open source your work or use open source technologies.
+This document provides some quick pointers on what you need to know as you plan to open source your work or use open source components in your work.
 
 ## 🤔 What is Open Source? 
 
@@ -8,7 +8,7 @@ The Open Source Initiative (OSI) provides [criteria](https://opensource.org/osd)
 
 <br>
 
-> ℹ **Note:** A project becomes open source once an open source licenses is applied to it and the source code or source material is made available to the public.
+> ℹ **Note:** A project becomes open source once an **open source license is applied** to it, and the source code or source material is made **available to the public**.
 
 <br>
 
@@ -30,7 +30,7 @@ GitHub's [opensource.guide](https://opensource.guide/starting-a-project/) provid
 
 <br>
 
-> 💡 **Hint:** If you wanted to contribute to an open source project, what would make it easier for you?
+> 💡 **Hint:** If you wanted to contribute to an open source project, what would make it easier for you? Apply the same to encourage your community to contribute to your work.
 
 <br>
 
@@ -42,13 +42,17 @@ GitHub's [opensource.guide](https://opensource.guide/starting-a-project/) provid
 
 <br>
 
-## Open Source Licenses 
+## 📄 Open Source Licenses 
 
-Open source licenses are licenses that comply with the open source definition, allowing software to be freely used, modified, and shared.
+Open source licenses are licenses that comply with the open source definition, allowing software to be freely used, modified, and shared. Examples of licenses that are commonly used and have been considered at WHO include:
+
+- [GNU General Public License (GPL) version 3](https://www.gnu.org/licenses/gpl-3.0.html) 
+- [MIT License](https://mit-license.org/)
+- [Apache License, Version 2.0](https://httpd.apache.org/docs/2.4/license.html)
 
 ### Copyleft 
 
-[Copyleft](https://opensource.org/faq#copyleft) refers to licenses that allow derivative works but require them to use the same license as the original work. GPL, AGPL, and Mozilla Public License 2.0 are examples of copyleft licenses.
+[Copyleft](https://opensource.org/faq#copyleft) refers to licenses that allow derivative works but require them to use the same license as the original work. The [GNU General Public License (GPL) version 3](https://www.gnu.org/licenses/gpl-3.0.html) is an example of a copyleft license.
 
 <br>
 
@@ -58,7 +62,7 @@ Open source licenses are licenses that comply with the open source definition, a
 
 ### Permissive Open Source License 
 
-A permissive license guarantees freedom to use, modify, and redistribute, but permits proprietary derivative works.
+Software under a permissive license can be modified, copied, added to, subtracted from, etc. without any obligation to share those updates. The [MIT License](https://mit-license.org/), which is the most commonly used OSS license, is an example of a permissive license.
 
 <br>
 
@@ -66,9 +70,11 @@ A permissive license guarantees freedom to use, modify, and redistribute, but pe
 
 <br>
 
-## Links to Useful Resources
+## 🔗 Links to Useful Resources
 
 - [List of commonly used open source licenses](https://opensource.org/licenses)
 - [The legal side of open source](https://opensource.guide/legal/)
 
 ## How the Open Source Progamme Office Can Support Your Work
+
+If you have questions, would like to make an existing project open source, or start a new project that you would like to be open source, please reach out on our [discussions board](https://github.com/WorldHealthOrganization/open-source-communication-channel/discussions).
