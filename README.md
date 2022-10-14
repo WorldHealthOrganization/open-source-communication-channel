@@ -39,9 +39,8 @@ As more WHO work is open sourced, the breadth of contributor profiles will grow.
 ### Contributor guidelines
 - Please follow this [Contributor Guideline](https://github.com/WorldHealthOrganization/open-source-communication-channel/blob/main/CONTRIBUTING.md) when planning to collaborate and contribute to this repository.
 
-### Product roadmaps
-- [Project Roadmap](https://github.com/orgs/WorldHealthOrganization/projects/14/views/1?layout=board)
-- [Collaborator Triage](https://github.com/WorldHealthOrganization/open-source-communication-channel/projects/1)
+### Roadmaps
+- [Project Roadmap](https://github.com/WorldHealthOrganization/open-source-communication-channel/projects/3)
 
 ### Current projects
 
@@ -51,8 +50,7 @@ Initiative Name | Notes | Contact
 **[Go.Data](https://github.com/WorldHealthOrganization/godata)** | Contact tracing solution for outbreak response. Public repo and community of practice for sharing technical resources for Go.Data users and contributors. | [@sarahollis](https://github.com/sarahollis)
 **[Semantic Web of Public Health Data - open APIs](https://www.epi-brain.com/)** | Semantic network of distributed data for sharing information and knowledge between humans as well as between systems, including public health intelligence systems and those that provide contextual information | [@milovanovicdusan](https://github.com/milovanovicdusan)
 
-
-Please, stay tuned while we are working on sharing more repositories for open source collaboration.
+Please, stay tuned while we work on sharing more repositories for open source collaboration.
 
 ### 👥 Our team
 
