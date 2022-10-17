@@ -44,7 +44,7 @@ GitHub's [opensource.guide](https://opensource.guide/starting-a-project/) provid
 
 ## 📄 Open Source Licenses 
 
-Open source licenses are licenses that comply with the open source definition, allowing software to be freely used, modified, and shared. Examples of licenses that are commonly used and have been considered at WHO include:
+Open source licenses are licenses that comply with the open source definition, allowing software to be freely used, modified, and shared. Examples of licenses that are commonly used and have previously been review and approved at WHO include:
 
 - [GNU General Public License (GPL) version 3](https://www.gnu.org/licenses/gpl-3.0.html) 
 - [MIT License](https://mit-license.org/)
