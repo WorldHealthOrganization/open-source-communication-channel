@@ -1,6 +1,6 @@
-# Getting Started with Open Source
+# Starting an Open Source Project
 
-This document provides some quick pointers on what you need to know as you plan to open source your work or use open source components in your work.
+This document provides some quick pointers as you plan to open source your work and use open source components in your work.
 
 ## 🤔 What is Open Source? 
 
@@ -16,7 +16,7 @@ GitHub's [opensource.guide](https://opensource.guide/starting-a-project/) provid
 
 #### Documentation
 
-✔ GitHub repository - WHO has adopted GitHub as the standard code repository for software projects
+✔ GitHub repository - the WHO has adopted GitHub as the standard code repository for software projects
 
 ✔ License - add a LICENSE file containing your chosen open source license to your project
 
@@ -30,7 +30,7 @@ GitHub's [opensource.guide](https://opensource.guide/starting-a-project/) provid
 
 <br>
 
-> 💡 **Hint:** If you wanted to contribute to an open source project, what would make it easier for you? Apply the same to encourage your community to contribute to your work.
+> 💡 **Hint:** If you wanted to contribute to an open source project, what practices would make it easier for you? Apply the same to encourage your community to contribute to your work.
 
 <br>
 
@@ -44,7 +44,7 @@ GitHub's [opensource.guide](https://opensource.guide/starting-a-project/) provid
 
 ## 📄 Open Source Licenses 
 
-Open source licenses are licenses that comply with the open source definition, allowing software to be freely used, modified, and shared. Examples of licenses that are commonly used and have previously been review and approved at WHO include:
+Open source licenses are licenses that comply with the open source definition, allowing software to be freely used, modified, and shared. Examples of licenses that are commonly used and have previously been reviewed at WHO include:
 
 - [GNU General Public License (GPL) version 3](https://www.gnu.org/licenses/gpl-3.0.html) 
 - [MIT License](https://mit-license.org/)
@@ -62,7 +62,7 @@ Open source licenses are licenses that comply with the open source definition, a
 
 ### Permissive Open Source License 
 
-Software under a permissive license can be modified, copied, added to, subtracted from, etc. without any obligation to share those updates. The [MIT License](https://mit-license.org/), which is the most commonly used OSS license, is an example of a permissive license.
+Software under a permissive license can be modified, copied, added to, subtracted from, etc. without any obligation to share those updates. The [MIT License](https://mit-license.org/), which is the most commonly used open source license, is an example of a permissive license.
 
 <br>
 
