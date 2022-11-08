@@ -20,7 +20,7 @@ GitHub's [opensource.guide](https://opensource.guide/starting-a-project/) provid
 
 ✔ License - add a LICENSE file containing your chosen open source license to your project
 
-✔ Basic documentation - add README, CONTRIBUTING, and CODE_OF_CONDUCT files to guide people who want to know more about the project and perhaps contribute to it
+✔ Basic documentation - add [README](sample_readme.md), CONTRIBUTING, and CODE_OF_CONDUCT files to guide people who want to know more about the project and perhaps contribute to it
 
 #### Code
 
