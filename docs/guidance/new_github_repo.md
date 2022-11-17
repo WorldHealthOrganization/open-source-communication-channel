@@ -28,7 +28,7 @@ Follow the [GitHub documentation](https://docs.github.com/en/authentication/secu
 
 ### Link to WHO WIMS account
 
-For WHO members, you may require an additional step to link your GitHub account using single sign on. See (instructions)[https://extranet.who.int/confluence/display/github/GitHub+Standards].
+For WHO members, you may require an additional step to link your GitHub account using single sign on. See [instructions](https://extranet.who.int/confluence/display/github/GitHub+Standards).
 
 <br>
 
