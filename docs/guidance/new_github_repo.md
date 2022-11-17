@@ -2,17 +2,17 @@
 
 ## What is GitHub?
 
-GitHub offers products for storing and collaborating on code.
+GitHub offers products for storing and collaborating on source code.
 
-The World Health Organization has a GitHub Enterprise account that can be viewed at [github.com/WorldHealthOrganization](https://github.com/WorldHealthOrganization).
+The World Health Organization's verified GitHub organisation can be viewed at [github.com/WorldHealthOrganization](https://github.com/WorldHealthOrganization).
 
 Read [more about enterprise accounts](https://docs.github.com/en/enterprise-cloud@latest/admin/overview/about-enterprise-accounts).
 
-## Creating a GitHub User Account
+## Creating a GitHub Personal User Account
 
-A GitHub account is needed to contribute code, open issues, or participate in discussion on GitHub repositories. 
+A personal GitHub account is needed to contribute code, open issues, or participate in discussion on GitHub repositories. 
 
-Go to [github.com](https://github.com/) and sign up for a GitHub account using your email.
+Go to [github.com](https://github.com/) and sign up for a personal GitHub account using your email.
 
 <br>
 
