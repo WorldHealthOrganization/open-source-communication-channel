@@ -16,7 +16,7 @@ GitHub's [opensource.guide](https://opensource.guide/starting-a-project/) provid
 
 #### Documentation
 
-✔ GitHub repository - the WHO has adopted GitHub as the standard code repository for software projects
+✔ GitHub repository - the [WHO has adopted GitHub](new_github_repo.md) as the standard code repository for software projects
 
 ✔ License - add a LICENSE file containing your chosen open source license to your project
 
