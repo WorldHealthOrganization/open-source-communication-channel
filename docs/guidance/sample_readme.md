@@ -1,6 +1,6 @@
 # Guide for an Open Source Project README
 
-The README file gives users and community members a helpful overview of your open source software or tools. 
+The README file gives users and community members a helpful overview of your open source software or tools.
 
 Consider the following template when creating your README:
 
@@ -24,7 +24,7 @@ This project consists of the following components:
 
 ### How to Contribute
 
-< add links to documentation on system architecture, setting up a development environment, testing, etc >
+< add links to documentation on system architecture, setting up a development environment, testing, etc. >
 
 < add links to online community tech support or development categories for developers >
 
@@ -34,7 +34,15 @@ This project consists of the following components:
 
 < add a link to release notes where available >
 
-### License
+### Copyright
+
+Copyright < organization >, < first year of publication along with years in which additional copyrightable content was contributed to the project or file >.
+
+< OR >
+
+Copyright The < Project Name > Contributors.
+
+### Terms of Use and License Agreement
 
 < Project Name > is available under the [ < Applied License > ] ( < Link to license > ). < Project Name > also includes external libraries that are available under a variety of licenses.
 
