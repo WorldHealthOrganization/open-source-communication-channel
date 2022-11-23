@@ -39,15 +39,21 @@ Here's a brief summary of what you need to do to release a program GNU GPL-v3:
 
 Type     | Description | Examples
 -------- | ----------- | --------
-Copyleft | These require you to apply a compatible open source license to derived works | GPL-v3, AGPL-v3
-Weak copyleft | Some restrictions | LGPL 
-Permissive | No restriction on licensing for derived works | Apache-2.0, MIT
-
-Permissive licenses give people freedom to 
+Copyleft | Provisions of the original license are imposed on all derivative work. Derivative work can be relicensed under a different copyleft license, but only if it is compatible with the original license. | GPL-v3, AGPL-v3
+Weak copyleft | A compromise between strong copyleft and permissive licenses. It allows more flexibility in the provisions such as linking from code licensed under different types of licenses (even non-opensource ones) or incorporating code in larger software (even if it isn't copyleft). | LGPL 
+Permissive | No restriction on licensing for derived works. | Apache-2.0, MIT
 
 <br>
 
 > 📖 **Read more:** [What is Copyleft?](https://www.gnu.org/licenses/copyleft.html)
+
+<br>
+
+For every license, there are things you **Can**, **Must**, and **Cannot** do.
+
+<br>
+
+> ℹ **Tip:** [Browse Software Licenses & Summaries](https://tldrlegal.com/licenses/browse) for simple, practical summaries of open source licenses.
 
 <br>
 
