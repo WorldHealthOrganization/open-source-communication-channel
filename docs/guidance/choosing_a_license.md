@@ -12,7 +12,7 @@ You may want to:
 
 Depending on your objectives, you might opt for a permissive license or non-permissive (copyleft) license.
 
-The World Health Organization Legal team have reviewed various OSI approved licenses and recommend using one of these licenses:
+The some of the projects hosted on https://github.com/WorldHealthOrganization have reviewed and applied various OSI approved licenses including:
 
 - [GNU General Public License (GPL) version 3](https://www.gnu.org/licenses/gpl-3.0.html) 
 - [Apache License, Version 2.0](https://httpd.apache.org/docs/2.4/license.html)
@@ -61,11 +61,11 @@ For every license, there are things you **Can**, **Must**, and **Cannot** do.
 
 Placed at start of file
 
-#### License Reference
+#### *License Reference*
 
 Unambiguous license reference.
 
-#### Copyright Notice
+#### *Copyright Notice*
 
 Unambiguous copyright reference. For example:
 
@@ -78,8 +78,6 @@ Include first year of publication along with years in which additional copyright
 or 
 
 > Copyright The Health Project Contributors.
-
-
 
 ## Useful Links and Resources 
 
