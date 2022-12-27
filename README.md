@@ -63,8 +63,10 @@ Please follow this [Contributor Guideline](CONTRIBUTING.md) when planning to col
 Initiative Name | Notes | Contact
 ------------    | ----- | -----
 **[Augmented Public Health Intelligence - AI/ML](https://portal.who.int/eios/Login?returnurl=%2feios%2f)** | Cognitive computing technologies encompassing machine learning and automated reasoning, natural language processing, speech and object recognition, human-computer interaction, dialog and narrative generation to support public health intelligence discipline | [@milovanovicdusan](https://github.com/milovanovicdusan)
+**[EmCare](https://argusgit.argusoft.com/who-public/emcare/-/blob/developer/README.md)** | Digital solution that initially aims to improve health outcomes for mothers and children in emergency settings | [@haskewc](https://github.com/haskewc)
 **[Go.Data](https://github.com/WorldHealthOrganization/godata)** | Contact tracing solution for outbreak response. Public repo and community of practice for sharing technical resources for Go.Data users and contributors. | [@sarahollis](https://github.com/sarahollis)
 **[Semantic Web of Public Health Data - open APIs](https://www.epi-brain.com/)** | Semantic network of distributed data for sharing information and knowledge between humans as well as between systems, including public health intelligence systems and those that provide contextual information | [@milovanovicdusan](https://github.com/milovanovicdusan)
+**[Step-by-step](https://github.com/WorldHealthOrganization/step-by-step-digital)** | Drupal distribution for an evidence based support program for people with depression and stress (repository to be made public soon) | [@kencarswell](https://github.com/kencarswell)
 
 Please, stay tuned while we work on sharing more repositories for open source collaboration.
 
