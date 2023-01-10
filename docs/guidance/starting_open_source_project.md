@@ -6,11 +6,7 @@ This document provides some quick pointers as you plan to open source your work 
 
 The Open Source Initiative (OSI) provides [criteria](https://opensource.org/osd) for open source works. These include free distribution, publicly available source code, permitting derived works, and non-discrimination against people, fields or other software.
 
-<br>
-
 > ℹ **Note:** A project becomes open source once an **open source license is applied** to it, and the source code or source material is made **available to the public**.
-
-<br>
 
 GitHub's [opensource.guide](https://opensource.guide/starting-a-project/) provides an easy to follow checklist to help you if you want to open source your project:
 
@@ -28,19 +24,13 @@ GitHub's [opensource.guide](https://opensource.guide/starting-a-project/) provid
 
 ✔ Continuous documentation - add code comments or inline documentation
 
-<br>
-
 > 💡 **Hint:** If you wanted to contribute to an open source project, what practices would make it easier for you? Apply the same to encourage your community to contribute to your work.
-
-<br>
 
 #### Community and Collaboration
 
 ✔ Promote your project internally and externally
 
 ✔ Assign a community manager to handle interaction with your community
-
-<br>
 
 ## 📄 Open Source Licenses 
 
@@ -54,21 +44,13 @@ Open source licenses are licenses that comply with the open source definition, a
 
 [Copyleft](https://opensource.org/faq#copyleft) refers to licenses that allow derivative works but require them to use the same license as the original work. The [GNU General Public License (GPL) version 3](https://www.gnu.org/licenses/gpl-3.0.html) is an example of a copyleft license.
 
-<br>
-
 > ℹ **Note:** Derived works of copyleft licenses work must be made available with compatible copyleft license.
-
-<br>
 
 ### Permissive Open Source License 
 
 Software under a permissive license can be modified, copied, added to, subtracted from, etc. without any obligation to share those updates. The [MIT License](https://mit-license.org/), which is the most commonly used open source license, is an example of a permissive license.
 
-<br>
-
 > ℹ **Note:** Not all open source licenses are copyleft.
-
-<br>
 
 ## 🔗 Links to Useful Resources
 

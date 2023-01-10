@@ -1,6 +1,6 @@
 # World Health Organization Open Source Communication Channel 
 
-## About this repo 
+## About 
 
 This repository is the first stop for open source communities wishing to contribute to the World Health Organization open source work. Below are links to contributor guidelines, open source product and project roadmaps, and key contributor recognition. 
 
@@ -19,11 +19,7 @@ To participate as a community member:
 
 Use this repo when you are interested in getting your organization, company, open source community, or you as an individual involved with WHO open source work. This is also a good place to find quick guides, helpful links, and discussions if you are already collaborating with WHO on open source work.
 
-<br>
-
 > ℹ **Note:** If you already have an existing collaboration or partnership with WHO, you can continue to use those existing communication channels.
-
-<br>
 
 ### ⭐️ Why using this? 
 
