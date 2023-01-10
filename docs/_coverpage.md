@@ -2,4 +2,4 @@
 
 # Official Open Source Communication Channel
 
-[FAQ](https://github.com/WorldHealthOrganization/open-source-communication-channel)
+[FAQ](https://github.com/WorldHealthOrganization/open-source-communication-channel/discussions/categories/q-a)
