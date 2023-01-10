@@ -6,7 +6,7 @@ GitHub offers products for storing and collaborating on source code.
 
 The World Health Organization's verified GitHub organisation can be viewed at [github.com/WorldHealthOrganization](https://github.com/WorldHealthOrganization).
 
-Read [more about enterprise accounts](https://docs.github.com/en/enterprise-cloud@latest/admin/overview/about-enterprise-accounts).
+> 📖 **Read more:** [about enterprise accounts](https://docs.github.com/en/enterprise-cloud@latest/admin/overview/about-enterprise-accounts).
 
 ## Creating a GitHub Personal User Account
 
@@ -14,11 +14,7 @@ A personal GitHub account is needed to contribute code, open issues, or particip
 
 Go to [github.com](https://github.com/) and sign up for a personal GitHub account using your email.
 
-<br>
-
 > ℹ **Note:** You can use your personal email address, especially if you would like to maintain a history of your GitHub activity beyond your current organization.
-
-<br>
 
 ### Two-factor Authentication
 
@@ -30,16 +26,11 @@ Follow the [GitHub documentation](https://docs.github.com/en/authentication/secu
 
 For WHO members, you may require an additional step to link your GitHub account using single sign on. See [instructions](https://extranet.who.int/confluence/display/github/GitHub+Standards).
 
-<br>
-
 > ℹ **Note:** Collaborators without a WHO account can still be invited as collaborators.
-
-<br>
 
 ### Requesting a WHO GitHub Repository
 
 WHO members can request a new repository using the [self service portal](https://who.service-now.com/self_service?id=sc_cat_item&sys_id=87bc6f40db1c9090a10ba7c748961988).
-
 
 ### Repository Best Practices
 

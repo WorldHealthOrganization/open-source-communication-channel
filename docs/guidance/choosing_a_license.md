@@ -43,19 +43,11 @@ Copyleft | Provisions of the original license are imposed on all derivative work
 Weak copyleft | A compromise between strong copyleft and permissive licenses. It allows more flexibility in the provisions such as linking from code licensed under different types of licenses (even non-opensource ones) or incorporating code in larger software (even if it isn't copyleft). | LGPL 
 Permissive | No restriction on licensing for derived works. | Apache-2.0, MIT
 
-<br>
-
 > 📖 **Read more:** [What is Copyleft?](https://www.gnu.org/licenses/copyleft.html)
-
-<br>
 
 For every license, there are things you **Can**, **Must**, and **Cannot** do.
 
-<br>
-
 > ℹ **Tip:** [Browse Software Licenses & Summaries](https://tldrlegal.com/licenses/browse) for simple, practical summaries of open source licenses.
-
-<br>
 
 ## 📝 File Notice
 
@@ -69,15 +61,13 @@ Unambiguous license reference.
 
 Unambiguous copyright reference. For example:
 
-> Copyright The World Health Organization, 2020 - 2022.
+`Copyright The World Health Organization, 2020 - 2022.`
 
-Note
-
-Include first year of publication along with years in which additional copyrightable content was contributed to the project or file
+> ℹ **Note:** Include first year of publication along with years in which additional copyrightable content was contributed to the project or file
 
 or 
 
-> Copyright The Health Project Contributors.
+`Copyright The Health Project Contributors.`
 
 ## Useful Links and Resources 
 
