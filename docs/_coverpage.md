@@ -1,6 +1,6 @@
 ![logo](/images/h-logo-blue.svg ':no-zoom')
 
-# WHO Open Source Communication Channel
+# Open Source Communication Channel
 
 > The first stop for open source communities wishing to contribute to the World Health Organization open source work
 
