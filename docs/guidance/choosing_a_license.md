@@ -49,28 +49,79 @@ For every license, there are things you **Can**, **Must**, and **Cannot** do.
 
 > ℹ **Tip:** [Browse Software Licenses & Summaries](https://tldrlegal.com/licenses/browse) for simple, practical summaries of open source licenses.
 
-## 📝 File Notice
+## 🧩 License Compatibility 
 
-Placed at start of file
+It is important to identify the component parts of the software and their licenses in order to ensure compatibility with the licence that you plan to release the software under. 
+
+> 📖 **Read more:** [GPL-Compatible Free Software Licenses](https://www.gnu.org/licenses/license-list.html#GPLCompatibleLicenses)
+
+## 📝 File Notices
+
+File notices are typically included at start of a software source file, indicating the license reference and copyright notices.
 
 #### *License Reference*
 
-Unambiguous license reference.
+It is recommended to put a LICENSE file at the root folder of the project and include the full text of the project license. 
+
+Referring to the actual license within each source file in the project removes ambiguity, especially where multiple licenses are used.
+
+For example:
+
+```
+// SPDX-License-Identifier: GPL-2.0-only
+```
+
+> 📖 **Read more:** [SPDX License List including a standardized short identifier, the full name, the license text, and a canonical permanent URL for common open source licenses.](https://spdx.org/licenses/)
+
+or 
+
+```
+/*
+ This program is free software; you can redistribute it and/or
+ modify it under the terms of the GNU General Public License
+ version 2 as published by the Free Software Foundation.
+
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ GNU General Public License for more details.
+*/
+```
 
 #### *Copyright Notice*
 
-Unambiguous copyright reference. For example:
+Copyright notices can follow two models:
 
-`Copyright The World Health Organization, 2020 - 2022.`
+✔ the word "Copyright"
+
+✔ the symbol ©
+
+✔ a year or range of years
+
+✔ the name of the individual or legal entity who is the copyright holder
+
+For example:
+```
+// Copyright The World Health Organization, 2020 - 2022.
+```
 
 > ℹ **Note:** Include first year of publication along with years in which additional copyrightable content was contributed to the project or file
 
 or 
 
-`Copyright The Health Project Contributors.`
+✔ "Copyright Contributors to the _______ Project" or "Copyright The _______ Contributors"
 
-## Useful Links and Resources 
+For example:
+```
+// Copyright The Health Project Contributors.
+```
+
+## 🔗 Useful Links and Resources 
 
 - [Choose an Open Source License](https://choosealicense.com/) - a site to help developers choose an open source license for the source code.
 - [The Legal Side of Open Source](https://opensource.guide/legal/) - open source tips and resources from GitHub.
 - [REUSE Specification](https://reuse.software/spec/) - a specification defines a standardized method for declaring copyright and licensing for software projects. The goal of the specification is to have unambiguous, human- and machine-readable copyright and licensing information for each individual file in a project.
+
+## How the Open Source Progamme Office Can Support Your Work
+
+If you have questions, would like to choose an open source license or add file notices to your project, reach out on the [WHO open source discussions board](https://github.com/WorldHealthOrganization/open-source-communication-channel/discussions).
