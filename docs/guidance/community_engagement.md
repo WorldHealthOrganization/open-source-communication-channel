@@ -30,7 +30,7 @@ Your community needs to be a safe, inclusive, and inviting space for everyone to
 Community events are a good way to drive engagement. Both in-person and online events provide an opportunity for community members to get to know one another and promote a sense belonging.
 
 - As much as possible, plan consistent community events to keep your community engaged. These can be monthly, quarterly, or every 6 months.
-- Maintain a community calendar with upcoming events to help your community members plan attendance in advance.
+- Maintain a public community calendar or list with upcoming events to help your community members plan attendance in advance.
 - Have a code of conduct for community events just as you have one for your community platform.
 - Use community events as an opportunity to hear other voices besides the project leaders and maintainers, for example, invite contributors and users to share their stories, painpoints, or ideas.
 
