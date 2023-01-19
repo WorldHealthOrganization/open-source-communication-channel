@@ -6,7 +6,7 @@
 
 - Building Contributor Communities
   - [Why Build a Community and Where to Start](guidance/building_community_intro.md)
-  - [Defining Contribution Processes](guidance/defining_contribution_processes.md)
+  - [Defining Contribution Processes](guidance/developing_contribution_guide.md)
   - [Engaging your Community](guidance/community_engagement.md)
 
 - Examples and Templates
