@@ -13,7 +13,7 @@ Open source communities are made up of users, contributors, and maintainers.
 It is recommended that open source projects within the WHO have one or both of the following in place:
 
 - *Technical Committee* - a group of maintainers with the required technical expertise to prioritize things on the project roadmap and resolve disputes
-- *Product Lead* - a person who sets the objective of the project and communicates them clearly to the community 
+- *Product Lead* - a person who sets the objectives of the project and communicates them clearly to the community 
 
 ## 🤷🏽‍♀️ Why Build a Community?
 
@@ -29,7 +29,7 @@ Have the following in place as you set up your community:
 
 ✔ A [README](sample_readme.md) that provides a clear overview of the project, what it does, and its various components
 
-✔ A Community [CODE_OF_CONDUCT](../../CODE_OF_CONDUCT.md) that clearly outlines the dos and don'ts of building a friendly and inclusive community
+✔ A community [CODE_OF_CONDUCT](../../CODE_OF_CONDUCT.md) that clearly outlines the dos and don'ts of building a friendly and inclusive community
 
 > ℹ **Reference:** [Contributor Covenant](https://www.contributor-covenant.org/)
 
