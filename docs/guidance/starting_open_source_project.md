@@ -10,7 +10,7 @@ The Open Source Initiative (OSI) provides [criteria](https://opensource.org/osd)
 
 GitHub's [opensource.guide](https://opensource.guide/starting-a-project/) provides an easy to follow checklist to help you if you want to open source your project:
 
-#### Documentation
+### Documentation
 
 ✔ GitHub repository - the [WHO has adopted GitHub](new_github_repo.md) as the standard code repository for software projects
 
@@ -18,7 +18,7 @@ GitHub's [opensource.guide](https://opensource.guide/starting-a-project/) provid
 
 ✔ Basic documentation - add [README](sample_readme.md), CONTRIBUTING, and CODE_OF_CONDUCT files to guide people who want to know more about the project and perhaps contribute to it
 
-#### Code
+### Code
 
 ✔ Conventions and best practices - use consistent code conventions and practices to make your work easily maintainable 
 
@@ -26,7 +26,7 @@ GitHub's [opensource.guide](https://opensource.guide/starting-a-project/) provid
 
 > 💡 **Hint:** If you wanted to contribute to an open source project, what practices would make it easier for you? Apply the same to encourage your community to contribute to your work.
 
-#### Community and Collaboration
+### Community and Collaboration
 
 ✔ Promote your project internally and externally
 
@@ -52,11 +52,13 @@ Software under a permissive license can be modified, copied, added to, subtracte
 
 > ℹ **Note:** Not all open source licenses are copyleft.
 
+> 📖 **Read more:** [Choosing an Open Source License](choosing_a_license.md)
+
 ## 🔗 Links to Useful Resources
 
 - [List of commonly used open source licenses](https://opensource.org/licenses)
 - [The legal side of open source](https://opensource.guide/legal/)
 
-## How the Open Source Progamme Office Can Support Your Work
+## 💬 How the Open Source Progamme Office Can Support Your Work
 
-If you have questions, would like to make an existing project open source, or start a new project that you would like to be open source, please reach out on our [discussions board](https://github.com/WorldHealthOrganization/open-source-communication-channel/discussions).
+If you have questions, would like to make an existing project open source, or start a new project that you would like to be open source, please reach out on [Discussions](https://github.com/WorldHealthOrganization/open-source-communication-channel/discussions).
