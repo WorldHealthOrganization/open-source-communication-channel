@@ -4,6 +4,9 @@
   - [Choosing an Open Source License](choosing_a_license.md)
   - [Setting up a GitHub Repository](new_github_repo.md)
 
+- Best Practices
+  - [Product Development Best Practices](product_dev_best_practices.md)
+
 - Building Contributor Communities
   - [Why Build a Community and Where to Start](building_community_intro.md)
   - [Defining Contribution Processes](developing_contribution_guide.md)
