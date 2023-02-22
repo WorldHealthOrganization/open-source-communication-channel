@@ -8,4 +8,4 @@
 - 👥 join a [community](https://github.com/WorldHealthOrganization/open-source-communication-channel/discussions) of open source practitioners
 
 [Contribute on GitHub](https://github.com/WorldHealthOrganization/open-source-communication-channel)
-[How to Guides](guidance/starting_open_source_project.md)
+[How-to Guides](guidance/starting_open_source_project.md)
