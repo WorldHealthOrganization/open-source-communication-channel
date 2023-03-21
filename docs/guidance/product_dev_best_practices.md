@@ -59,7 +59,7 @@ The purpose of tracking an issue is to keep track of features, tasks, user stori
 
 > :bangbang: Ensure that the tool used to track the issues can be accessed by the contributors.
 
-## Development Tracking
+## 💻 Development Tracking 
 
 There are many methods that can be used by a team to track the development of a product. Two examples of those methods are suggested: 
 
