@@ -2,7 +2,7 @@
 
 The degree of complexity and uncertainty, the number of contributors, and the management and control needs of an open-source project are just some of the factors that can influence the choice of a process to manage contributions for product development. A project team is invited to use any process they are most comfortable with, however considering the bellow list of best practices may help the adoption of enhancements to the processes. 
 
-## Communication And Documentation
+## 📝 Communication and Documentation 
 
 Effective and open communication within the project team is key for a clear product development process. Documentation allows for knowledge transfer, of everything that is known, and of what has been produced so far, so that others can productively build upon it. There should be an effort to create a transparency with communication and documentation early on.
 
