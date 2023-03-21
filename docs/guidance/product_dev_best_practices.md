@@ -89,7 +89,7 @@ A pull request allows a contributor to tell others about the changes that were p
 
 > :heavy_exclamation_mark: For more information, on submitting a pull request, please see the [Contributing Page](https://github.com/WorldHealthOrganization/open-source-communication-channel/blob/main/CONTRIBUTING.md) in this repository.
 
-## Testing
+## ☑ Testing
 
 When a product or a component of a product is developed, it is important to validate if it meets the proposed objectives and functions as intended.
 
