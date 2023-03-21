@@ -39,7 +39,7 @@ There are many ways to contribute to an open-source project that are not only re
 > - Marketing experts: to generate project’s visibility and resources by creating how-to articles, producing videos and screencasts, promoting the project in the media, writing blogs and newsletters, issuing press releases, and so on.
 - Identify key contributors that can take up certain leadership responsibilities, such as overseeing the project, reviewing contributions, determining the roadmap, and ensuring the community is a positive and inclusive space.
 
-## Maintaining A Product Roadmap
+## ✨ Maintaining a Product Roadmap
 
 The product roadmap is a document that outlines the strategic direction of a product with the intent of aligning stakeholders and project teams on what will be delivered. It should be the source of truth to communicate the vision, direction, priorities, and progress of a product over time. Depending on the complexity of the product to be built, the roadmap can be as simple as a collection of issues in the issue tracker or a detailed timeline with milestones.
 
