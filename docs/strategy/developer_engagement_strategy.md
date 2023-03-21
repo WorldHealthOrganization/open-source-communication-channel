@@ -1,12 +1,37 @@
-# Developer Engagement Strategy
+# Developer Engagement Strategy 
 
-## 🤷🏽‍♀️ Why Engage?
+This developer engagement strategy is a key resource to inform developers and various experts how they can make impactful contributions to open source work at the WHO efficiently and effectively.
 
-## 🧩 Types of Engagement
+## 🤷🏽‍♀️ Why Engage? 
 
-## 🚦 General Guidelines for Contributing to WHO
 
-## 📢 Communication and Education
+---
+## 🧩 Types of Engagement 
 
-## 🙋🏽‍♂️ Frequently Asked Questions
+---
+## 🚦 General Guidelines for Contributing to WHO 
+
+### Code of conduct 
+
+---
+## 📢 Change Management 
+
+### Communication 
+
+### Developer education and workshops 
+
+
+---
+## 💾 Developer Retention 
+
+### Long term check-ins 
+
+### Tracking contribution impact 
+
+---
+## 🔗 Useful Links and Resources 
+
+
+---
+## 🙋🏽‍♂️ Frequently Asked Questions 
 
