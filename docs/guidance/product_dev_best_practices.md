@@ -81,7 +81,7 @@ Kanban is a method in which items are pulled from a backlog and are started when
 
 > :bangbang: Kanban board is the name of the tool used to manage the issues in development, helping to visualise work, limit work-in-progress, and maximize efficiency of development.
 
-## Pull And Merge Requests
+## ✅ Pull and Merge Requests 
 
 A pull request allows a contributor to tell others about the changes that were pushed to a branch in a project repository. Once a pull request is opened, the potential changes can be discussed and reviewed with other contributors and follow-up improvements can be added before all changes are merged into the main project repository (also known as main branch). 
 
