@@ -14,7 +14,7 @@ Effective and open communication within the project team is key for a clear prod
 
 > :interrobang: Other channels can be used for communications as long as the interactions and decisions are documented and accessible to contributors.
 
-## Onboarding New Contributors To An Open-source Project
+## 👩🏽‍💻 Onboarding New Contributors to an Open Source Project
 
 During the course of an open-source project, many contributors may join, and their engagement can be strengthened if they are able to become productive within the shortest amount of time. To make it possible, contributors need to be onboarded in an efficient manner that helps them understand what is needed and expected.
 
