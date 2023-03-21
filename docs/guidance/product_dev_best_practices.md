@@ -97,7 +97,7 @@ When a product or a component of a product is developed, it is important to vali
 
 > :interrobang: When possible, use tools to automate testing.
 
-## Resources
+## 🔗 Useful Links and Resources 
 For more information on the above topics, please check the following links:
 - [Building Welcoming Communities](https://opensource.guide/building-community/)
 - [Attract contributors to your open source project with authenticity](https://opensource.com/article/22/6/attract-contributors-open-source-project)
