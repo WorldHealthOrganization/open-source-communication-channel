@@ -6,6 +6,7 @@
   - [Making an Internal GitHub Repository Public](making_internal_repo_public.md)
 
 - Best Practices
+  - [Issue Labels Best Practices](labels_best_practices.md)
   - [Product Development Best Practices](product_dev_best_practices.md)
 
 - Building Contributor Communities
