@@ -28,7 +28,7 @@ During the course of an open-source project, many contributors may join, and the
 
 > :bangbang: Ensure that all project information is easily found by new contributors.
 
-## Roles
+## 🧑🏽 Roles
 
 There are many ways to contribute to an open-source project that are not only related with development.
 
@@ -48,7 +48,7 @@ The product roadmap is a document that outlines the strategic direction of a pro
 
 > :bangbang: Ensure that the parts of the product the contributors can immediately start working on are identified.
 
-## Issue Tracking
+## 🎯 Issue Tracking
 
 The purpose of tracking an issue is to keep track of features, tasks, user stories, bugs, and so on, that are part of the roadmap and project backlog.
 
