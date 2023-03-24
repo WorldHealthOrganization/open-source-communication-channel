@@ -9,6 +9,8 @@ Issues help track tasks on GitHub.
 - Use brief but descriptive titles and avoid vague titles like 'Documentation'.
 - Provide as much useful detail as possible in the issue comment section.
 
+> **📖 Read more:** [Filling in issue information](https://docs.github.com/en/issues/tracking-your-work-with-issues/quickstart#filling-in-information)
+
 ## 📐 Issue Templates
 
 - Create pre-filled issue templates to guide contributors and help them create useful issues. 
