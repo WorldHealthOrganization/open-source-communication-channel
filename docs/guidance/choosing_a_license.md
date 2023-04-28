@@ -122,6 +122,6 @@ For example:
 - [The Legal Side of Open Source](https://opensource.guide/legal/) - open source tips and resources from GitHub.
 - [REUSE Specification](https://reuse.software/spec/) - a specification defines a standardized method for declaring copyright and licensing for software projects. The goal of the specification is to have unambiguous, human- and machine-readable copyright and licensing information for each individual file in a project.
 
-## How the Open Source Progamme Office Can Support Your Work
+## How the Open Source Programme Office Can Support Your Work
 
 If you have questions, would like to choose an open source license or add file notices to your project, reach out on the [WHO open source discussions board](https://github.com/WorldHealthOrganization/open-source-communication-channel/discussions).

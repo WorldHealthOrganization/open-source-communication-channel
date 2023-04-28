@@ -36,6 +36,6 @@ It is critical to ensure that there is no sensitive material in the code files, 
 
 - [Code security guides](https://docs.github.com/en/code-security/guides)
 
-## 💬 How the Open Source Progamme Office Can Support Your Work
+## 💬 How the Open Source Programme Office Can Support Your Work
 
 If you have questions, would like to make an existing project open source, or start a new project that you would like to be open source, please reach out on [Discussions](https://github.com/WorldHealthOrganization/open-source-communication-channel/discussions).
