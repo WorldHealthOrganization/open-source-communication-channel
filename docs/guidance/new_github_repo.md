@@ -40,6 +40,6 @@ WHO members can request a new repository using the [self service portal](https:/
 - Add a brief description of the purpose for the repository
 - Add [topics](https://github.blog/2017-01-31-introducing-topics/) to your repository details
 
-## 💬 How the Open Source Progamme Office Can Support Your Work
+## 💬 How the Open Source Programme Office Can Support Your Work
 
 If you have questions, would like to make an existing project open source, or start a new project that you would like to be open source, please reach out on [Discussions](https://github.com/WorldHealthOrganization/open-source-communication-channel/discussions).

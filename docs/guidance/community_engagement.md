@@ -38,6 +38,6 @@ Community events are a good way to drive engagement. Both in-person and online e
 
 - [Building an Inclusive Open Source Community](https://todogroup.org/guides/diversity-inclusion/)
 
-## 💬 How the Open Source Progamme Office Can Support Your Work
+## 💬 How the Open Source Programme Office Can Support Your Work
 
 If you have questions, would like to make an existing project open source, or start a new project that you would like to be open source, please reach out on [Discussions](https://github.com/WorldHealthOrganization/open-source-communication-channel/discussions).

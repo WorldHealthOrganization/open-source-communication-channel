@@ -26,6 +26,6 @@ At minimum, have the following sections in your contributing guide:
 
 > ℹ **Reference:** [nayafia/contributing-template](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md#how-to-report-a-bug)
 
-## 💬 How the Open Source Progamme Office Can Support Your Work
+## 💬 How the Open Source Programme Office Can Support Your Work
 
 If you have questions, would like to make an existing project open source, or start a new project that you would like to be open source, please reach out on [Discussions](https://github.com/WorldHealthOrganization/open-source-communication-channel/discussions).

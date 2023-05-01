@@ -59,6 +59,6 @@ Software under a permissive license can be modified, copied, added to, subtracte
 - [List of commonly used open source licenses](https://opensource.org/licenses)
 - [The legal side of open source](https://opensource.guide/legal/)
 
-## 💬 How the Open Source Progamme Office Can Support Your Work
+## 💬 How the Open Source Programme Office Can Support Your Work
 
 If you have questions, would like to make an existing project open source, or start a new project that you would like to be open source, please reach out on [Discussions](https://github.com/WorldHealthOrganization/open-source-communication-channel/discussions).
