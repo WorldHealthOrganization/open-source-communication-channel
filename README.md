@@ -73,11 +73,13 @@ The following folks are the maintainers for this repository. Please feel free to
 | Name              | Contact    | Pic                           
 | --------------    | ---------- | ----------------------------- 
 | Samuel Mbuthia    | [@smbuthia](https://github.com/smbuthia) | ![smbuthia][smbuthia]
-| Dusan Milovanovic | [@milovanovicdusan](https://github.com/milovanovicdusan) | ![milovanovicdusan][milovanovicdusan]       
+| Mala Kumar | [@malakumar85](https://github.com/malakumar85) | ![malakumar85][malakumar85] 
+| Catharina Maracke | [@catharinamaracke](https://github.com/catharinamaracke) | ![catharinamaracke][catharinamaracke]
  
 
 [smbuthia]: https://avatars.githubusercontent.com/u/1491710?s=100
-[milovanovicdusan]: https://avatars.githubusercontent.com/milovanovicdusan?s=100
+[malakumar85]: https://avatars.githubusercontent.com/malakumar85?s=100
+[catharinamaracke]: https://avatars.githubusercontent.com/catharinamaracke?s=100
 
 💖 To help make this a welcoming and inclusive community, please read our [code of conduct](https://github.com/WorldHealthOrganization/open-source-communication-channel/blob/main/CODE_OF_CONDUCT.md).
 
