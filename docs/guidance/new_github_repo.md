@@ -24,7 +24,7 @@ Two-factor authentication (2FA) adds an important layer of protection to make yo
 
 ### Link to WHO WIMS Account
 
-For WHO members, you may require an additional step to link your GitHub account using single sign on. See [instructions](https://github.com/WorldHealthOrganization/.github-private/blob/main/profile/README.MD).
+For WHO members, you may require an additional step to link your GitHub account using single sign on. See [instructions](https://github.com/WorldHealthOrganization/.github/blob/main/profile/README.md).
 
 > ℹ **Note:** Collaborators without a WHO account can still be invited as collaborators.
 
