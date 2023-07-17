@@ -81,4 +81,6 @@ The following folks are the maintainers for this repository. Please feel free to
 
 ### More Information 
 
-For more information on WHO's open source work, [watch this video on YouTube](https://www.youtube.com/watch?v=clm5Ee6O_4o) on how WHO uses technology for early detection, verification, and risk assessment of pandemics. You can also read about the launch of [WHO's new Open Source Programme Office](https://socialimpact.github.com/insights/world-health-organization-OSPO-launch/).
+For more information about WHO's OSPO, [watch the recording of fifth edition of the Speaker Series of the WHO Hub for Pandemic and Epidemic Intelligence (Embracing Open Source Solutions for Health Emergencies)](https://youtu.be/yNK27_6MrF8?t=107) where the WHO OSPO was publicly launched. 
+
+For more information on how WHO uses technology for early detection, verification, and risk assessment of pandemics watch [this recording from GitHub Universe 2020](https://www.youtube.com/watch?v=clm5Ee6O_4o) and find out more about related initiatives at [pandemic.who.int - our work](https://pandemichub.who.int/). 
