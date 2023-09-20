@@ -1,5 +1,7 @@
 - Open Source Guides
 
+  - [What is Open Source](what_is_open_source.md)
+  - [Open Source Licenses](open_source_licenses.md)
   - [Starting an Open Source Project](starting_open_source_project.md)
   - [Choosing an Open Source License](choosing_a_license.md)
   - [Setting up a GitHub Repository](new_github_repo.md)
