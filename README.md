@@ -60,7 +60,7 @@ Please, stay tuned while we work on sharing repositories for open source collabo
 
 ### 👥 Our team 
 
-The following folks are the maintainers for this repository. Please feel free to contact them via an [@mention](https://docs.github.com/github/writing-on-github/basic-writing-and-formatting-syntax#mentioning-people-and-teams) in an [issue](https://github.com/WorldHealthOrganization/open-source-communication-channel/issues/new), or via email for any questions, comments, and/or ideas you may have relating to WHO's Open Source innitiative and this repository:
+The following folks are the maintainers for this repository. Please feel free to contact them via an [@mention](https://docs.github.com/github/writing-on-github/basic-writing-and-formatting-syntax#mentioning-people-and-teams) in an [issue](https://github.com/WorldHealthOrganization/open-source-communication-channel/issues/new), or via email for any questions, comments, and/or ideas you may have relating to WHO's Open Source initiative and this repository:
 
 | Name              | Contact    | Pic                           
 | --------------    | ---------- | ----------------------------- 
