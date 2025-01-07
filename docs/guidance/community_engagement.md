@@ -10,8 +10,8 @@ Keeping your community engaged is important if you want to keep contributions co
 
 There are many options to choose from when it comes to community platforms. Two recommended platforms are:
 
-- [GitHub Discussions](https://docs.github.com/en/discussions) takes the least effort to setup if your project repository is on GitHub.
-- [Discourse](https://www.discourse.org/) is an open source platform that provides various features for community discussions and tools for moderation. 
+- [GitHub Discussions](https://docs.github.com/en/discussions) takes the least effort to setup if your project repository is on GitHub.However, according to users GitHub is mainly used for technical developments rather than as a forum.
+- [Discourse](https://www.discourse.org/) is an open source platform that provides various features for community discussions and tools for moderation. WHO has been using Discourse for several internal and external projects.
 
 > ℹ **Note:** For WHO projects, reach out to the WHO OSPO or IMT if you would like support setting up your community platform.
 
@@ -40,4 +40,4 @@ Community events are a good way to drive engagement. Both in-person and online e
 
 ## 💬 How the Open Source Programme Office Can Support Your Work
 
-If you have questions, would like to make an existing project open source, or start a new project that you would like to be open source, please reach out on [Discussions](https://github.com/WorldHealthOrganization/open-source-communication-channel/discussions).
+If you have questions, would like to make an existing project open source, or start a new project that you would like to be open source, please reach out at opensource@who.int
