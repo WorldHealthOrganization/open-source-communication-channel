@@ -12,8 +12,8 @@ This repository is the first stop for open source communities wishing to contrib
 To participate as a community member:
 
 1. Sign in with your GitHub account.
-2. Go to the [discussions](https://github.com/WorldHealthOrganization/open-source-communication-channel/discussions) page.
-3. Pick a category and start a discussion.
+2. Go to the [issues](https://github.com/WorldHealthOrganization/open-source-communication-channel/issues) page.
+3. Propose an issue.
 
 ### 🤔 When do I use this? 
 
@@ -50,22 +50,20 @@ Please follow this [Contributor Guideline](CONTRIBUTING.md) when planning to col
 
  The [Starting an Open Source Project Guide](docs/guidance/starting_open_source_project.md) is a good starting point for project teams working with WHO and want to start an open source project or open source an existing project.
 
-### Roadmaps 
-
-- [OSPO Roadmap](https://github.com/WorldHealthOrganization/open-source-communication-channel/projects/3)
-
 ### Current projects 
 
 Please, stay tuned while we work on sharing repositories for open source collaboration.
 
 ### 👥 Our team 
 
-The following folks are the maintainers for this repository. Please feel free to contact them via an [@mention](https://docs.github.com/github/writing-on-github/basic-writing-and-formatting-syntax#mentioning-people-and-teams) in an [issue](https://github.com/WorldHealthOrganization/open-source-communication-channel/issues/new), or via email for any questions, comments, and/or ideas you may have relating to WHO's Open Source initiative and this repository:
+You can contact the OSPO team at opensource@who.int. The following folks are the maintainers for this repository. Please feel free to contact them via an [@mention](https://docs.github.com/github/writing-on-github/basic-writing-and-formatting-syntax#mentioning-people-and-teams) in an [issue](https://github.com/WorldHealthOrganization/open-source-communication-channel/issues/new), or via email for any questions, comments, and/or ideas you may have relating to WHO's Open Source initiative and this repository:
 
 | Name              | Contact    | Pic                           
 | --------------    | ---------- | ----------------------------- 
 | Samuel Mbuthia    | [@smbuthia](https://github.com/smbuthia) | <img src="https://avatars.githubusercontent.com/smbuthia?s=100" width="100" />
 | Catharina Maracke | [@catharinamaracke](https://github.com/catharinamaracke) | <img src="https://avatars.githubusercontent.com/catharinamaracke?s=100" width="100" />
+| Alessandra D'Angelo | [@alessandraSPB](https://github.com/alessandraSPB) | <img src="https://avatars.githubusercontent.com/alessandraSPB?s=100" width="100" />
+
 
 💖 To help make this a welcoming and inclusive community, please read our [code of conduct](https://github.com/WorldHealthOrganization/open-source-communication-channel/blob/main/CODE_OF_CONDUCT.md).
 
