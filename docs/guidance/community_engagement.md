@@ -10,7 +10,7 @@ Keeping your community engaged is important if you want to keep contributions co
 
 There are many options to choose from when it comes to community platforms. Two recommended platforms are:
 
-- [GitHub Discussions](https://docs.github.com/en/discussions) takes the least effort to setup if your project repository is on GitHub.However, according to users GitHub is mainly used for technical developments rather than as a forum.
+- [GitHub Discussions](https://docs.github.com/en/discussions) takes the least effort to setup if your project repository is on GitHub. However, according to many users GitHub is mainly used for technical development work rather than as a forum.
 - [Discourse](https://www.discourse.org/) is an open source platform that provides various features for community discussions and tools for moderation. WHO has been using Discourse for several internal and external projects.
 
 - Before selecting a platform, it is important to check whether the users that we are planning on engaging are already members of an existing community in order to avoid duplications and, when possible, maintain the same platform where users are already familiar. In all cases, the selected platform should be user-friendly and compliant with data privacy and protection rules for WHO.
