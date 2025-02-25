@@ -4,7 +4,7 @@
 
 Open source communities are made up of users, contributors, and maintainers. 
 
-> 📖 **Read more:** [The Open Source Contributor Funnel](https://mikemcquaid.com/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/)
+> 📖 **Read more:** [Growing Your Contributors](https://docs.oscollective.org/guides/growing-your-contributors)
 
 - *Users* are those who use the software but are not submitting code or documentation. The may sometimes submit support issues.
 - *Contributors* are those who are submitting code or documentation but need someone to review their code and merge their contribution. They do not have permission to merge their own changes.
@@ -39,4 +39,4 @@ Have the following in place as you set up your community:
 
 ## 💬 How the Open Source Programme Office Can Support Your Work
 
-If you have questions, would like to make an existing project open source, or start a new project that you would like to be open source, please reach out on [Discussions](https://github.com/WorldHealthOrganization/open-source-communication-channel/discussions).
+If you have questions, would like to make an existing project open source, or start a new project that you would like to be open source, please reach out at opensource@who.int
