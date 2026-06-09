@@ -1,6 +1,6 @@
 # Choosing an Open Source License
 
-Open source licenses are licenses that comply with the [OSI Open Source Definition](https://opensource.org/osd).
+All Open source licenses are licenses that comply with the [OSI Open Source Definition](https://opensource.org/osd).
 
 Before you choose an open source license, it is good to understand what you want to accomplish with your open source project.
 
